@@ -3,6 +3,11 @@
 A full-stack restaurant ordering and management application built with Next.js,
 TypeScript, PostgreSQL, Firebase, Supabase, and Twilio.
 
+https://gourmet-express-kipling.com
+<img width="1578" height="842" alt="Screenshot 2026-09-30 at 3 08 50 PM" src="https://github.com/user-attachments/assets/bc20bf17-c349-46ee-9c7f-321cf11e3091" />
+
+
+
 ## 1. Purpose
 
 Connect customer ordering with restaurant operations in one application. Customers
