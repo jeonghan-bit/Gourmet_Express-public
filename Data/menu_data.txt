@@ -1,0 +1,1082 @@
+[
+    {
+        "category": "Appetizers",
+        "name": "Crispy Fried Wonton",
+        "description": "",
+        "price": 9.95
+    },
+    {
+        "category": "Appetizers",
+        "name": "Egg Roll",
+        "description": "Vegetable.",
+        "price": 2.95
+    },
+    {
+        "category": "Appetizers",
+        "name": "Spring Roll",
+        "description": "Vegetable.",
+        "price": 2.95
+    },
+    {
+        "category": "Appetizers",
+        "name": "Fried Crispy Chicken Wings",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Appetizers",
+        "name": "Ken-Ken Chicken Wings",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Appetizers",
+        "name": "Spicy Chicken Wings",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Appetizers",
+        "name": "Deep-Fried Spicy Squid",
+        "description": "Spicy. Calamari.",
+        "price": 19.95
+    },
+    {
+        "category": "Appetizers",
+        "name": "Salt and Peppers Squid",
+        "description": "Calamari",
+        "price": 19.95
+    },
+    {
+        "category": "Appetizers",
+        "name": "Sweet-Sour Breaded Shrimp",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Appetizers",
+        "name": "Ken-Ken Breaded Shrimp",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Appetizers",
+        "name": "Vegetable Dumplings",
+        "description": "Gyoza.",
+        "price": 9.95
+    },
+    {
+        "category": "Appetizers",
+        "name": "French Fries with Ken Ken Sauce",
+        "description": "",
+        "price": 9.95
+    },
+    {
+        "category": "Soup and Noodle in Soup",
+        "name": "Wonton Soup",
+        "description": "Pork wonton",
+        "price": 8.5
+    },
+    {
+        "category": "Soup and Noodle in Soup",
+        "name": "Hot and Soup Soup",
+        "description": "Spicy.",
+        "price": 8.5
+    },
+    {
+        "category": "Soup and Noodle in Soup",
+        "name": "Egg Drop with Mushroom Soup",
+        "description": "",
+        "price": 8.5
+    },
+    {
+        "category": "Soup and Noodle in Soup",
+        "name": "Chicken Corn Soup",
+        "description": "",
+        "price": 8.5
+    },
+    {
+        "category": "Soup and Noodle in Soup",
+        "name": "Seafood Tofu Soup",
+        "description": "",
+        "price": 8.5
+    },
+    {
+        "category": "Soup and Noodle in Soup",
+        "name": "Hofan Noodle in Soup with Chicken",
+        "description": "",
+        "price": 9.95
+    },
+    {
+        "category": "Soup and Noodle in Soup",
+        "name": "Egg Noodle in Soup with Chicken",
+        "description": "",
+        "price": 9.95
+    },
+    {
+        "category": "Soup and Noodle in Soup",
+        "name": "Wonton Noodle in Soup",
+        "description": "Pork wonton",
+        "price": 9.95
+    },
+    {
+        "category": "Vegetable Delights",
+        "name": "Curry Mixed Vegetables",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Vegetable Delights",
+        "name": "Stir-fried Mixed Vegetable and Cashews",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Vegetable Delights",
+        "name": "Sauteed Triple Mushrooms",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Vegetable Delights",
+        "name": "Home-Style Tofu and Vegetables",
+        "description": "Spicy. Low fat or low cholesterol.",
+        "price": 18.95
+    },
+    {
+        "category": "Vegetable Delights",
+        "name": "Yu Shiang Broccoli",
+        "description": "Spicy. Low fat and low cholesterol.",
+        "price": 18.95
+    },
+    {
+        "category": "Vegetable Delights",
+        "name": "Stir-fry Snow Peas",
+        "description": "Low cholesterol and low fat.",
+        "price": 18.95
+    },
+    {
+        "category": "Vegetable Delights",
+        "name": "Szechuan Stirfry Mixed Vegetables",
+        "description": "Spicy.",
+        "price": 18.95
+    },
+    {
+        "category": "Vegetable Delights",
+        "name": "Stir-fry Chinese Green (Bok Choy)",
+        "description": "Low fat and low cholesterol. Bok choy.",
+        "price": 18.95
+    },
+    {
+        "category": "Vegetable Delights",
+        "name": "Stir-fry Chinese Broccoli",
+        "description": "Gai Lan",
+        "price": 18.95
+    },
+    {
+        "category": "Vegetable Delights",
+        "name": "Tofu and Eggplant",
+        "description": "Spicy. Low cholesterol and low fat.",
+        "price": 18.95
+    },
+    {
+        "category": "Special Delights and Thai",
+        "name": "Ma Po Tofu",
+        "description": "Spicy. Mined pork",
+        "price": 19.95
+    },
+    {
+        "category": "Special Delights and Thai",
+        "name": "Thai Dop Woy",
+        "description": "Chicken Beef Pork Shrimp with vegetables",
+        "price": 19.95
+    },
+    {
+        "category": "Special Delights and Thai",
+        "name": "Pad Thai Chicken",
+        "description": "peanut",
+        "price": 18.95
+    },
+    {
+        "category": "Special Delights and Thai",
+        "name": "Pad Thai Seafood",
+        "description": "peanut",
+        "price": 18.95
+    },
+    {
+        "category": "Special Delights and Thai",
+        "name": "Beef with Teriyaki Sauce",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Special Delights and Thai",
+        "name": "Chicken with Teriyaki Sauce",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Special Delights and Thai",
+        "name": "Shrimp with Teriyaki Sauce",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Special Delights and Thai",
+        "name": "Teriyaki UDon",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Special Delights and Thai",
+        "name": "Teriyaki Tofu",
+        "description": "8pcs",
+        "price": 13.95
+    },
+    {
+        "category": "Egg Foo Young",
+        "name": "Chicken Egg Foo Young",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Egg Foo Young",
+        "name": "Beef Egg Foo Young",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Egg Foo Young",
+        "name": "BBQ Pork Egg Foo Young",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Egg Foo Young",
+        "name": "Shrimp Egg Foo Young",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Egg Foo Young",
+        "name": "Mushroom Egg Foo Young",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Egg Foo Young",
+        "name": "Gourment Special Egg Foo Young",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Sweet-Sour and Honey Garlic",
+        "name": "Sweet-Sour Pork with Pineapple",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Sweet-Sour and Honey Garlic",
+        "name": "Sweet-Sour Chicken Balls",
+        "description": "10 pcs Chicken Balls (sauce on side)",
+        "price": 19.95
+    },
+    {
+        "category": "Sweet-Sour and Honey Garlic",
+        "name": "Sweet-Sour Chicken with Pineapple",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Sweet-Sour and Honey Garlic",
+        "name": "Honey Garlic Spare Ribs",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Sweet-Sour and Honey Garlic",
+        "name": "Honey Garlic Chicken Balls",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Sweet-Sour and Honey Garlic",
+        "name": "Honey Garlic Chicken Wings",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Sweet-Sour and Honey Garlic",
+        "name": "Honey Garlic Chicken",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Spicy Peanut Chicken",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Curry Chicken with Vegetables",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Kung Pao Chicken",
+        "description": "Spicy and contain peanuts.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "General Tso's Chicken",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Orange Chicken",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Crispy Ginger Chicken",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Chilli Chicken with Mixed Vegetable",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Hakka Chilli Chicken",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Hunan Chicken",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Szechuan Sesame Chicken",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Manchurian Chicken",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Chicken with Diced Vegetables and Cashews",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Lemon Chicken",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Chicken Soo Gai",
+        "description": "Almonds on top. comes with gravy sauce on the side.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Chicken with Broccoli",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Chicken with Black Bean Sauce",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Black Pepper Chicken and Mushrooms & Vegetable",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Chicken with Snow Peas",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Chicken with Mixed Vegetables",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Ginger Chicken with Onions",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Chicken with Chinese Green (Bok Choy)",
+        "description": "Bok choy.",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Chicken with Chinese Broccoli",
+        "description": "Gai Lan",
+        "price": 19.95
+    },
+    {
+        "category": "Chicken",
+        "name": "Egg Plan with Chicken",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Curry Beef with Vegetables",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Kung Pao Beef",
+        "description": "Spicy. Peanut",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Orange Beef",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Crispy Ginger Beef",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Hunan Beef",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Szechuan Sesame Beef",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Manchurian Beef",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Beef with Diced Vegetables and Cashews",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Beef with Broccoli",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Beef with Black Bean Sauce",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Black Pepper Beef and Mushrooms & Vegetable",
+        "description": "Beef mushroom vegetable.",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Beef with Snow Peas",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Beef with Mixed Vegetables",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Ginger Beef with Onions",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Beef with Chinese Greens (Bok Choy)",
+        "description": "Bok choy.",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Beef with Chinese Broccoli",
+        "description": "Gai Lan",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Beef with Eggplant",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Beef",
+        "name": "Beef with Mushrooms and Vegetables",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Curry Shrimp with Vegetables",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Shrimp with Lobster Sauce",
+        "description": "Minced meat, shrimp, and egg in a black bean sauce.",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Shrimp with Snow Peas",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Seafood Combination",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Shrimp with Black Bean Sauce",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Szechuan Shrimp",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Hunan Style Mussels",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Shrimp with Diced Vegetables and Cashews",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Thai Garlic Shrimp",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Kung Pao Shrimp",
+        "description": "Spicy and contain peanuts.",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Scallops with Mixed Vegetables",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Seafoods",
+        "name": "Shrimp with Eggplant",
+        "description": "Spicy.",
+        "price": 19.95
+    },
+    {
+        "category": "Chop Suey",
+        "name": "Chicken Chop Suey",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Chop Suey",
+        "name": "Beef Chop Suey",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Chop Suey",
+        "name": "BBQ Pork Chop Suey",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Chop Suey",
+        "name": "Shrimp Chop Suey",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Chop Suey",
+        "name": "Mixed Vegetable Chop Suey",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Pork",
+        "name": "BBQ Sliced Pork",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Pork",
+        "name": "BBQ Spareribs (6 pcs)",
+        "description": "One order comes with six pieces.",
+        "price": 20.95
+    },
+    {
+        "category": "Pork",
+        "name": "Pork with Diced Vegetables and Cashews",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Pork",
+        "name": "BBQ Slice Pork with Vegetables",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Pork",
+        "name": "Dry Garlic Spareribs Black Bean Sauce",
+        "description": "",
+        "price": 19.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Cantonese Chow Mein",
+        "description": "Crispy egg noodles with shrimp, chicken, pork, beef, and garden-fresh vegetables.",
+        "price": 18.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Szechuan Noodles",
+        "description": "Spicy. Thick noodles with tender slices of chicken in a spicy chilli paste.",
+        "price": 18.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Singapore Rice Noodles",
+        "description": "Spicy. Rice vermicelli with shrimp, chicken, egg, green onions, carrots, and chop suey tossed in a curry paste.",
+        "price": 18.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Shanghai Noodles",
+        "description": "Thick Shanghai noodles with beef and shrimp tossed with cabbage and carrots.",
+        "price": 18.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Chicken Lo Mein",
+        "description": "Soft steamed noodles.",
+        "price": 18.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Beef Lo Mein",
+        "description": "Soft steamed noodles.",
+        "price": 18.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Shrimp Lo Mein",
+        "description": "Soft steamed noodles.",
+        "price": 18.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Seafood Chow Mein",
+        "description": "Crispy egg noodles with shrimp, scallops, crab meat, squid, and mixed vegetables on top of noodles.",
+        "price": 18.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Vegetable Lo Mein",
+        "description": "Vegetables with sauce on steamed noodles.",
+        "price": 17.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Vegetable Szechuan Noodle",
+        "description": "Spicy.",
+        "price": 17.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Stir-fry Plain Noodle",
+        "description": "Thin noodle stir-fried with vegetables Go well with any food.",
+        "price": 16.95
+    },
+    {
+        "category": "Noodles",
+        "name": "Beef Ho Fan with Black Bean Sauce",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Noodles",
+        "name": "L Beef Ho Fan with Soya Sauce",
+        "description": "",
+        "price": 18.95
+    },
+    {
+        "category": "Rice",
+        "name": "Chicken Fried Rice",
+        "description": "",
+        "price": 13.95
+    },
+    {
+        "category": "Rice",
+        "name": "Beef Fried Rice",
+        "description": "",
+        "price": 13.95
+    },
+    {
+        "category": "Rice",
+        "name": "BBQ Pork Fried Rice",
+        "description": "",
+        "price": 13.95
+    },
+    {
+        "category": "Rice",
+        "name": "Shrimp Fried Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Rice",
+        "name": "Mushroom Fried Rice",
+        "description": "",
+        "price": 13.95
+    },
+    {
+        "category": "Rice",
+        "name": "Vegetable Fried Rice",
+        "description": "",
+        "price": 13.95
+    },
+    {
+        "category": "Rice",
+        "name": "Plain Fried Rice",
+        "description": "",
+        "price": 9.95
+    },
+    {
+        "category": "Rice",
+        "name": "Young Chow Fried Rice",
+        "description": "Pork, shrimp, and egg.",
+        "price": 15.95
+    },
+    {
+        "category": "Rice",
+        "name": "Egg Fried Rice",
+        "description": "",
+        "price": 13.95
+    },
+    {
+        "category": "Rice",
+        "name": "Gourment House Special Fried Rice",
+        "description": "Chicken beef pork shrimp.",
+        "price": 16.95
+    },
+    {
+        "category": "Rice",
+        "name": "Pineapple Chicken Fried Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Rice",
+        "name": "Seafood Fried Rice",
+        "description": "",
+        "price": 16.95
+    },
+    {
+        "category": "Rice",
+        "name": "Steamed Rice",
+        "description": "",
+        "price": 3.95
+    },
+    {
+        "category": "Special Family Dinners",
+        "name": "Dinner for 2",
+        "description": "Two egg rolls or spring roll, chicken chop suey or stir-fry plain noodles, six pieces of barbeque chicken wings, six sweet-sour chicken balls, and chicken fried rice.",
+        "price": 49.95
+    },
+    {
+        "category": "Special Family Dinners",
+        "name": "Dinner for 3",
+        "description": "Three egg rolls or spring roll, chicken chop suey or two wonton soup, eight barbeque chicken wings, beef or chicken with mixed vegetables, chicken fried rice, and stir-fry plain noodles.",
+        "price": 65.95
+    },
+    {
+        "category": "Special Family Dinners",
+        "name": "Dinner for 4",
+        "description": "Four egg rolls or spring roll, chicken chop suey or two wonton soup, ten barbeque chicken wings, ten sweet-sour chicken balls, large beef with mixed vegetables, large chicken with mixed vegetables, or General Tso's chicken, large chicken fried rice, and stir-fry plain noodles.",
+        "price": 79.95
+    },
+    {
+        "category": "Special Family Dinners",
+        "name": "Dinner for 5",
+        "description": "Five egg rolls or spring roll, chicken chop suey, ten barbeque chicken wings, ten sweet-sour chicken balls, eight sweet-sour breaded shrimp, large beef with mixed vegetables, large chicken with mixed vegetables, or General Tso's chicken, large chicken fried rice, and stir-fry plain noodles.",
+        "price": 95.95
+    },
+    {
+        "category": "Special Family Dinners",
+        "name": "Dinner for 6",
+        "description": "Six egg rolls or spring roll, chicken chop suey, ten barbeque chicken wings, ten sweet-sour chicken balls, eight sweet-sour breaded shrimp, large beef with mixed vegetables, large chicken with mixed vegetables, or General Tso's chicken, large lemon chicken, two large chicken fried rice, and stir-fry plain noodles.",
+        "price": 115.95
+    },
+    {
+        "category": "Combo Platters For One",
+        "name": "Combo",
+        "description": "Egg roll or spring roll, beef or chicken, vegetables, and fried rice.",
+        "price": 16.95
+    },
+    {
+        "category": "Combo Platters For One",
+        "name": "Combo 3",
+        "description": "Egg roll or spring roll, sweet-sour chicken balls, chop suey, and fried rice.",
+        "price": 16.95
+    },
+    {
+        "category": "Combo Platters For One",
+        "name": "Combo 1",
+        "description": "Egg roll or spring roll, chicken wings, chop suey, and fried rice.",
+        "price": 16.95
+    },
+    {
+        "category": "Combo Platters For One",
+        "name": "Combo 2",
+        "description": "Egg roll or spring roll, sweet-sour breaded shrimp, chop suey, and fried rice.",
+        "price": 16.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Beef Ho Fan with Soya Sauce",
+        "description": "Rice flour noodle.",
+        "price": 16.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Young Chow Fried Rice",
+        "description": "Pork and shrimp.",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Spicy Thai Noodle",
+        "description": "Chicken and shrimp. Sweet & Peanut flavor",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "BBQ Pork with Tofu on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Curry Chicken on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Cantonese Chow Mein",
+        "description": "",
+        "price": 16.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Mixed Vegetables on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Chicken Lo Mein",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Chilli Chicken and Mixed Vegetable on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Beef with Black bean Sauce on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Beef with Mixed Vegetables on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Singapore Rice Noodles",
+        "description": "Chicken and shrimp curry flavor.",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Beef and Mushrooms on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Sweet-Sour Pork on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Sweet-Sour Chicken on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "General Tso's Chicken on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Chilli Tofu on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Beef Teriyaki Sauce on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Chicken Teriyaki Sauce on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Lemon Chicken on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Manchurian Chicken on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Eggplant with Tofu on Rice",
+        "description": "Spicy.",
+        "price": 15.95
+    },
+    {
+        "category": "Daily Special",
+        "name": "Softend Egg with Shrimp on Rice",
+        "description": "",
+        "price": 15.95
+    },
+    {
+        "category": "Drinks",
+        "name": "Pop Canned",
+        "description": "",
+        "price": 1.95
+    },
+    {
+        "category": "Drinks",
+        "name": "Iced Tea Bottled",
+        "description": "",
+        "price": 3.95
+    },
+    {
+        "category": "Drinks",
+        "name": "Tropical Bottled",
+        "description": "",
+        "price": 3.95
+    },
+    {
+        "category": "Drinks",
+        "name": "Snaple Bottled",
+        "description": "",
+        "price": 3.95
+    },
+    {
+        "category": "Drinks",
+        "name": "Minute Maid Bottled",
+        "description": "",
+        "price": 3.95
+    },
+    {
+        "category": "Drinks",
+        "name": "Iced Tea Canned",
+        "description": "",
+        "price": 2.75
+    },
+    {
+        "category": "Drinks",
+        "name": "Water Bottled",
+        "description": "",
+        "price": 1.95
+    }
+]
