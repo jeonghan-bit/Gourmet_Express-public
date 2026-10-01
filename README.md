@@ -1,4 +1,5 @@
 # Gourmet Express
+This repository is a sanitized public version of the original Gourmet Express application. The original repository remains private to protect production configuration and sensitive information.
 
 A full-stack restaurant ordering and management application built with Next.js,
 TypeScript, PostgreSQL, Firebase, Supabase, and Twilio.
