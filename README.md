@@ -15,10 +15,6 @@ Connect customer ordering with restaurant operations in one application. Custome
 can browse the menu and place orders; staff can manage orders, menu items,
 customers, business hours, and notifications.
 
-This repository presents the application's implementation for portfolio review.
-Development was AI-assisted, with work on API access control and polling optimization.
-Account-specific configuration is supplied through private environment variables.
-
 ## 2. Repository Structure
 
 ```text
